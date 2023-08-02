@@ -151,7 +151,7 @@ var(--blue-color); */
      border-radius: 2px;
  } */
 
- .header-menu-link:hover::after {
+ .header-menu-link:hover::before {
      content: '';
      width: 100%;
      position: absolute;
