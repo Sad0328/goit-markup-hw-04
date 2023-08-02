@@ -153,7 +153,7 @@ var(--blue-color); */
      border-bottom: 4px solid #404bbf; 
  }   */
 
- /* .header-menu-link::after {
+ .header-menu-link::after {
     content: '';
         width: 100%;
         position: absolute;
@@ -162,7 +162,7 @@ var(--blue-color); */
         height: 4px;
         background-color: #404bbf;
         border-radius: 2px;
- } */
+ } 
 
 .current::after {
         content: '';
